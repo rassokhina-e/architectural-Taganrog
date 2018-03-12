@@ -1,2 +1,2 @@
-# architectural-Taganrog
+# architectural-taganrog
 Architectural Taganrog
